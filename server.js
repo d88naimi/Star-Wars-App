@@ -31,6 +31,13 @@ var characters = [
     forcePoints: 1200
   },
   {
+    routeName: "david",
+    name: "David Awesome",
+    role: "Javascript Master",
+    age: 200,
+    forcePoints: 5000
+  },
+  {
     routeName: "obiwankenobi",
     name: "Obi Wan Kenobi",
     role: "Jedi Master",
