@@ -2,7 +2,7 @@
 
 ## Description
 
-Understand the CRUD operations and passing information to the express router
+Introduction to CRUD operations with express routing
 
 ## Tools Used
 
@@ -12,3 +12,12 @@ Understand the CRUD operations and passing information to the express router
 - JQUERY
 - NODE
 - EXPRESS
+
+## Installation
+
+`npm install`
+
+## Directions
+
+- add a new character
+- search for all apis via URL
